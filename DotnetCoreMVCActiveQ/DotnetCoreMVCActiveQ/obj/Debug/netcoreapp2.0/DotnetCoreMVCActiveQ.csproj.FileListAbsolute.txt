@@ -1,0 +1,11 @@
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\bin\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.deps.json
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\bin\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.runtimeconfig.json
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\bin\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.runtimeconfig.dev.json
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\bin\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.dll
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\bin\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.pdb
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\obj\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.csproj.CoreCompileInputs.cache
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\obj\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.AssemblyInfoInputs.cache
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\obj\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.AssemblyInfo.cs
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\obj\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.dll
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\obj\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.pdb
+c:\users\ss0055721\source\repos\DotnetCoreMVCActiveQ\DotnetCoreMVCActiveQ\obj\Debug\netcoreapp2.0\DotnetCoreMVCActiveQ.csprojAssemblyReference.cache
